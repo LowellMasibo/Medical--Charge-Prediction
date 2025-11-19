@@ -45,6 +45,7 @@ Models are compared using metrics such as R², MAE, and RMSE. The best-performin
 6. Deployment (Local & Web-Based)
 The final model is exported for deployment and integrated into a simple web interface, enabling users to input variables and receive predicted insurance costs.
 
+
 🚀 How to Run This Project (Google Colab)
 
 Open the notebook in Google Colab
@@ -60,6 +61,7 @@ Run all cells sequentially
 
 Review model performance and prediction outputs
 
+
 📈 Results
 
 The final trained model demonstrates strong predictive performance and reveals several key insights:
@@ -71,6 +73,7 @@ BMI and age also significantly influence cost
 Regional differences have moderate but noticeable effects
 
 A summary of model accuracy is included within the notebook.
+
 
 🎯 Purpose & Learning Outcomes
 
@@ -86,6 +89,7 @@ Deploying ML workflows in Google Colab
 
 Understanding real-world cost prediction problems
 
+
 🔧 Technologies Used
 
 Python
@@ -97,6 +101,7 @@ Scikit-learn
 Matplotlib & Seaborn
 
 Google Colab
+
 
 📬 Contact
 
