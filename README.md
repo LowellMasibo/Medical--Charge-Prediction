@@ -1,4 +1,5 @@
 📘 README: Medical Insurance Cost Prediction Using Machine Learning
+
 🧠 Project Overview
 
 This project develops a machine learning model that predicts medical insurance charges based on key demographic and lifestyle factors, including:
@@ -30,6 +31,7 @@ Key variables include:
 | `smoker`   | Yes / No                                                 |
 | `region`   | U.S. region (southwest, southeast, northwest, northeast) |
 | `charges`  | Medical insurance cost                                   |
+
 
 🧪 Methods & Approach
 1. Data Loading & Problem Definition
